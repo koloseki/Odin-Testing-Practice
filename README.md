@@ -1,1 +1,3 @@
-# Testing-Practice-
+# Odin-Testing-Practice
+
+Practice of using jest 
